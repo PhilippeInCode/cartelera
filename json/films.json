@@ -10,7 +10,76 @@
             "synopsis": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action."
         },
         {
-
+            "id": 2, 
+            "poster": "https://m.media-amazon.com/images/I/A1JVqNMI7UL._AC_UF894,1000_QL80_.jpg",
+            "tittle": "Interstellar",
+            "year": "2014",
+            "length": "2h 49m",
+            "director": "Christopher Nolan",
+            "synopsis": "The film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for mankind."
+        },
+        {
+            "id": 3, 
+            "poster": "https://m.media-amazon.com/images/I/81SkmbbS9NL._AC_UF894,1000_QL80_.jpg",
+            "tittle": "The Good, The Bad And The Ugly",
+            "year": "1966",
+            "length": "3h 6m",
+            "director": "Sergio Leone",
+            "synopsis": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+        },
+        {
+            "id": 5, 
+            "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
+            "tittle": "Your Name",
+            "year": "2016",
+            "length": "1h 50m",
+            "director": "Makoto Shinkai",
+            "synopsis": "It depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly began to swap bodies despite having never met."
+        },
+        {
+            "id": 6, 
+            "poster": "https://conoce-japon.com/wp-content/uploads/2019/07/Poster-Tenko-no-Ko.jpg",
+            "tittle": "Weathering with you",
+            "year": "2019",
+            "length": "1h 54m",
+            "director": "Makoto Shinkai",
+            "synopsis": "It follows a 16-year-old high school boy, Hodaka Morishima, who runs away from his troubled rural home to Tokyo, and later befriends Hina Amano, an orphaned girl who has the ability to control the weather."
+        },
+        {
+            "id": 7, 
+            "poster": "https://upload.wikimedia.org/wikipedia/en/3/3f/Devilsadvocate.jpg",
+            "tittle": "The Devil's Advocate",
+            "year": "1997",
+            "length": "2h 24m",
+            "director": "Taylor Hackford",
+            "synopsis": "As his wife becomes haunted by frightening visions, the lawyer slowly realizes the firm's owner, John Milton, is in fact, the Devil."
+        },
+        {
+            "id": 8, 
+            "poster": "https://pics.filmaffinity.com/American_Psycho-137901124-large.jpg",
+            "tittle": "American Psycho",
+            "year": "2000",
+            "length": "1h 44m",
+            "director": "Mary Harron",
+            "synopsis": "American Psycho is an extraordinarily graphic description of obscene violence, which is spliced with reviews of music by Phil Collins and Whitney Houston."
+        },
+        {
+            "id": 9, 
+            "poster": "https://fastly-s3.allmovie.com/iva/movie/3723/300/3723.jpg",
+            "tittle": "Magnolia",
+            "year": "1999",
+            "length": "3h 8m",
+            "director": "Paul Thomas Anderson",
+            "synopsis": "The film is an epic mosaic of interrelated characters in search of happiness, forgiveness and meaning in the San Fernando Valley."
+        },
+        {
+            "id": 10, 
+            "poster": "https://pics.filmaffinity.com/Eyes_Wide_Shut-685089011-large.jpg",
+            "tittle": "Eyes Wide Shut",
+            "year": "1999",
+            "length": "2h 39m",
+            "director": "Stanley Kubrick",
+            "synopsis": "A doctor becomes obsessed with having a sexual encounter after his wife admits to having sexual fantasies about a man she met and chastising him for dishonesty."
         }
     ]
 
