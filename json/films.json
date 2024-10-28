@@ -1,0 +1,20 @@
+{
+    "Films": [
+        {
+            "id": 1, 
+            "poster": "https://minicritic.es/wp-content/uploads/2018/07/taxi-driver-afiche.jpg",
+            "tittle": "Taxi driver",
+            "year": "1976",
+            "length": "1h 54m",
+            "director": "Martin Scorsese",
+            "synopsis": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action."
+        },
+        {
+
+        }
+    ]
+
+
+
+
+}
