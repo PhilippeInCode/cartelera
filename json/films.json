@@ -1,5 +1,5 @@
 {
-    "Films": [
+    "films": [
         {
             "id": 1, 
             "poster": "https://minicritic.es/wp-content/uploads/2018/07/taxi-driver-afiche.jpg",
@@ -80,6 +80,42 @@
             "length": "2h 39m",
             "director": "Stanley Kubrick",
             "synopsis": "A doctor becomes obsessed with having a sexual encounter after his wife admits to having sexual fantasies about a man she met and chastising him for dishonesty."
+        },
+        {
+            "id": 11, 
+            "poster": "https://m.media-amazon.com/images/M/MV5BMDRhNmJjMzEtMWU5MC00YmEyLTg3ZmYtNzYxZTI1ZGU4ZjI1XkEyXkFqcGc@._V1_.jpg",
+            "tittle": "The Great Escape",
+            "year": "1963",
+            "length": "2h 52m",
+            "director": "John Sturges",
+            "synopsis": "The game follows an unnamed prisoner of war who has been interned in a POW camp somewhere in northern Germany in 1942."
+        },
+        {
+            "id": 12, 
+            "poster": "https://www.ecartelera.com/carteles/700/744/001_p.jpg",
+            "tittle": "A King in New York",
+            "year": "1957",
+            "length": "1h 45m",
+            "director": "Charles Chaplin",
+            "synopsis": "It is about a recently-deposed European monarch who seeks shelter in New York City. Charles Chaplin and Maxine Audley give fantastic performances."
+        },
+        {
+            "id": 14, 
+            "poster": "https://es.web.img3.acsta.net/pictures/20/01/09/15/10/0234685.jpg",
+            "tittle": "1917",
+            "year": "2019",
+            "length": "1h 59m",
+            "director": "Sam Mendes",
+            "synopsis": "April 1917, the Western Front. Two young British soldiers during the First World War are given an impossible mission."
+        },
+        {
+            "id": 15, 
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDkyMTgzMV5BMl5BanBnXkFtZTgwNTQwNjg2MzI@._V1_.jpg",
+            "tittle": "Darkest Hour",
+            "year": "2017",
+            "length": "2h 5m",
+            "director": "Joe Wright",
+            "synopsis": "In May 1940 Britain and France are Allies in World War II against Nazi Germany. Hitler has already invaded Czechoslovakia, Poland, Denmark and Norway."
         }
     ]
 
