@@ -1,4 +1,4 @@
-const requestURL = '../json/films.json'
+const requestURL = './json/films.json'
 
 // Función asíncrona
 
@@ -10,7 +10,7 @@ async function fetchMoviesJson() {
 
 fetchMoviesJson().then(movies => {
     for (let i = 0; i < movies.films.length; i++){
-        const moviesSection = document.getElementById('movieSection');
+        const movieSection = document.getElementById('movieSection');
 
         let id = movies.films[i].id;
         let poster = movies.films[i].poster;
@@ -20,7 +20,7 @@ fetchMoviesJson().then(movies => {
         let director = movies.films[i].director;
         let synopsis = movies.films[i].synopsis;
 
-        moviesSection.innerHTML += `
+        movieSection.innerHTML += `
         <div class="card" style="width: 18rem;">
          <img src="${poster}" class="card-img-top" alt="...">
          <div class="card-body">
