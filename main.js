@@ -12,13 +12,13 @@ fetchMoviesJson().then(movies => {
     for (let i = 0; i < movies.films.length; i++){
         const moviesSection = document.getElementById('movieSection');
 
-        let id = movies.films[index].id;
-        let poster = movies.films[index].poster;
-        let tittle = movies.films[index].title;
-        let year = movies.films[index].year;
-        let length = movies.films[index].length;
-        let director = movies.films[index].director;
-        let synopsis = movies.films[index].synopsis;
+        let id = movies.films[i].id;
+        let poster = movies.films[i].poster;
+        let title = movies.films[i].title;
+        let year = movies.films[i].year;
+        let length = movies.films[i].length;
+        let director = movies.films[i].director;
+        let synopsis = movies.films[i].synopsis;
 
         moviesSection.innerHTML += `
         <div class="card" style="width: 18rem;">
