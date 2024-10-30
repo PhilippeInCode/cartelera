@@ -9,30 +9,23 @@ async function fetchMoviesJson() {
 }
 
 fetchMoviesJson().then(movies => {
-    for (let i = 0; i < movies.films.length; i++){
-        const movieSection = document.getElementById('movieSection');
+    const movieSection = document.getElementById('movieSection');
 
-        let id = movies.films[i].id;
-        let poster = movies.films[i].poster;
-        let title = movies.films[i].title;
-        let year = movies.films[i].year;
-        let length = movies.films[i].length;
-        let director = movies.films[i].director;
-        let synopsis = movies.films[i].synopsis;
-
+    movies.films.forEach(movie => {
         movieSection.innerHTML += `
-        <div class="card" style="width: 18rem;">
-         <img src="${poster}" class="card-img-top" alt="...">
-         <div class="card-body">
-         <h5 class="card-title">${title}</h5>
-         <p class="card.title"><span
-         class="h6">${year}</span> . ${length}
-         </p>
-         <h6 class="card-title mb-4">${director}</h6>
-         <p class="card-text">${synopsis}
-         </p>
-         </div>
-        </div>
-        `
-    }
-})
+            <div class="col">
+                <div class="card h-100" style="width: 100%;">
+                    <img src="${movie.poster}" class="card-img-top" alt="${movie.title}">
+                    <div class="card-body">
+                        <h5 class="card-title">${movie.title}</h5>
+                        <p class="card-text">
+                            <span class="h6">${movie.year}</span> · ${movie.length}
+                        </p>
+                        <h6 class="card-title mb-4">${movie.director}</h6>
+                        <p class="card-text">${movie.synopsis}</p>
+                    </div>
+                </div>
+            </div>
+        `;
+    });
+});

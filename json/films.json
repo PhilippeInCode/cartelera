@@ -116,6 +116,141 @@
             "length": "2h 5m",
             "director": "Joe Wright",
             "synopsis": "In May 1940 Britain and France are Allies in World War II against Nazi Germany. Hitler has already invaded Czechoslovakia, Poland, Denmark and Norway."
+        },
+        {
+            "id": 16, 
+            "poster": "https://pics.filmaffinity.com/Born_to_Be_Blue-256042353-large.jpg",
+            "title": "Born to be Blue",
+            "year": "2015",
+            "length": "1h 37m",
+            "director": "Robert Budreau",
+            "synopsis": "In the late 1960s, jazz trumpeter Chet Baker (Ethan Hawke) begins a romance with an actress (Carmen Ejogo) while trying to stage a musical comeback."
+        },
+        {
+            "id": 17, 
+            "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31722_p_v8_ab.jpg",
+            "title": "The Butterfly Effect",
+            "year": "2004",
+            "length": "1h 53m",
+            "director": "Eric Bress, J. Mackye Gruber",
+            "synopsis": "A college-age Evan decides to cracks the cover of his journals and the inexplicable happens: He is bodily transported into those repressed memories."
+        },
+        {
+            "id": 18, 
+            "poster": "https://m.media-amazon.com/images/I/91mOJoRYhrL._AC_UF894,1000_QL80_.jpg",
+            "title": "Meet Joe Black",
+            "year": "1998",
+            "length": "3h 1m",
+            "director": "Martin Brest",
+            "synopsis": "A movie about a rich man trying to negotiate the terms of his own death. It is a movie about a woman who falls in love with a concept."
+        },
+        {
+            "id": 19, 
+            "poster": "https://pics.filmaffinity.com/Apocalypse_Now-630974887-large.jpg",
+            "title": "Apocalypse Now",
+            "year": "1979",
+            "length": "3h 2m",
+            "director": "Francis Ford Coppola",
+            "synopsis": "U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god."
+        },
+        {
+            "id": 20, 
+            "poster": "https://m.media-amazon.com/images/S/pv-target-images/e0e27ea5a13ca436a17dcbe09d0bd39d50e3a8e71f4c5f674996d9aaaafbd3d4.jpg",
+            "title": "Into the Wild",
+            "year": "2007",
+            "length": "2h 28m",
+            "director": "Sean Penn",
+            "synopsis": "Based on the true story of 22 year-old Christopher McCandless who walked out of his privileged life and promising future to become a back-to-nature wanderer in the 1990s. On the way, he encounters a series of adventures and people that will all shape him in a unique, meaningful way."
+        },
+        {
+            "id": 21, 
+            "poster": "https://m.media-amazon.com/images/S/pv-target-images/504d4599f515039cebd9ba83c0f205585875468ceea037fad44d68faea69ac82.jpg",
+            "title": "To Kill a Mockingbird",
+            "year": "1962",
+            "length": "2h 9m",
+            "director": "Robert Mulligan",
+            "synopsis": "One summer, Jem and Scout befriend a boy named Dill, who has come to live in their neighborhood for the summer, and the trio acts out stories together."
+        },
+        {
+            "id": 22, 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/9/9d/The_Great_Dictator_%281940%29_poster.jpg",
+            "title": "The Great Dictator",
+            "year": "1940",
+            "length": "2h 5m",
+            "director": "Charles Chaplin",
+            "synopsis": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime."
+        },
+        {
+            "id": 23, 
+            "poster": "https://m.media-amazon.com/images/I/81bOLxwoUaL._AC_UF894,1000_QL80_.jpg",
+            "title": "Ali G Indahouse",
+            "year": "2002",
+            "length": "1h 28m",
+            "director": "Mark Mylod",
+            "synopsis": "Ali G is the leader of Da West Staines Massiv, a fictional gang composed of wannabe gangsters from Staines. Their chief rivals are Da East Staines Massiv."
+        },
+        {
+            "id": 24, 
+            "poster": "https://m.media-amazon.com/images/S/pv-target-images/0d047fc05c81bc9230a06ec6ec2468672c01eda1c65af7a60b9113694edbb761.jpg",
+            "title": "This is the End",
+            "year": "2013",
+            "length": "1h 47m",
+            "director": "Seth Rogen, Evan Goldberg",
+            "synopsis": "Six Los Angeles celebrities are stuck in James Franco's house after a series of devastating events just destroyed the city."
+        },
+        {
+            "id": 25, 
+            "poster": "https://es.web.img2.acsta.net/pictures/18/01/29/13/26/1361527.jpg",
+            "title": "Koe No Katachi",
+            "year": "2016",
+            "length": "2h 9m",
+            "director": "Naoko Yamada",
+            "synopsis": "A deaf girl, Shoko, is bullied by the popular Shoya, then a heartwarming tale of Shouya's reunion with Shouko and his honest attempts to redeem himself."
+        },
+        {
+            "id": 26, 
+            "poster": "https://m.media-amazon.com/images/M/MV5BYjdiMDdlMDItOGM4Ny00YmE4LTk0MTEtMGRhM2Y4OWZkZDZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "title": "Garden of Words",
+            "year": "2013",
+            "length": "46m",
+            "director": "Makoto Shinkai",
+            "synopsis": "On a rainy morning in Tokyo, 15-year-old Takao, an aspiring shoemaker, decides to skip class to sketch designs in a beautiful garden."
+        },
+        {
+            "id": 27, 
+            "poster": "https://pics.filmaffinity.com/Emboscada_final-483718847-large.jpg",
+            "title": "The Highway Men",
+            "year": "2019",
+            "length": "2h 12m",
+            "director": "John Lee Hancock",
+            "synopsis": "The untold true story of the legendary detectives who brought down Bonnie and Clyde. The outlaws made headlines. The lawmen made history."
+        },
+        {
+            "id": 28, 
+            "poster": "https://pics.filmaffinity.com/Seven-734875211-large.jpg",
+            "title": "Seven",
+            "year": "1995",
+            "length": "2h 7m",
+            "director": "David Fincher",
+            "synopsis": "The story follows two detectives, one retiring and one his replacement, jointly investigating a series of ritualistic murders inspired by the seven deadly sins."
+        },
+        {
+            "id": 29, 
+            "poster": "https://pics.filmaffinity.com/Matrix-155050517-large.jpg",
+            "title": "The Matrix",
+            "year": "1999",
+            "length": "2h 16m",
+            "director": "Lana Wachowski",
+            "synopsis": "The Matrix is a computer-generated dream world designed to keep these humans under control. Humans are kept sedated, effectively living a virtual life."
+        },
+        {
+            "id": 30, 
+            "poster": "https://pics.filmaffinity.com/Dallas_Buyers_Club-497574146-large.jpg",
+            "title": "Dallas Buyers Club",
+            "year": "2013",
+            "length": "1h 57m",
+            "director": "Jean-Marc Vallée",
+            "synopsis": "Ron Woodroof (Matthew McConaughey) is a foul-mouthed Texan electrician and part-time rodeo rider who is addicted to drugs and sex."
         }
     ]
 
