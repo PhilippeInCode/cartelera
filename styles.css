@@ -1,0 +1,15 @@
+.footerSocialMedia a {
+    text-decoration: none;
+}
+
+.bg-light-gray {
+    background-color: #f3f2f5 ; 
+}
+
+.navbar-brand img {
+    width: 150px;
+}
+
+.form-control::placeholder {
+    color: #999;
+}
