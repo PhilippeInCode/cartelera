@@ -29,7 +29,7 @@
         },
         {
             "id": "4", 
-            "poster": "https://m.media-amazon.com/images/M/MV5BMTIyNzFjNzItZmQ1MC00NzhjLThmMzYtZjRhN2Y3MmM2OGQyXkEyXkFqcGc@._V1_.jpg",
+            "poster": "https://www.lab111.nl/wp-content/uploads/2017/09/Your-Name_ps_1_jpg_sd-high-1-scaled.jpg",
             "title": "Your Name",
             "year": "2016",
             "length": "1h 50m",
@@ -38,7 +38,7 @@
         },
         {
             "id": "5", 
-            "poster": "https://conoce-japon.com/wp-content/uploads/2019/07/Poster-Tenko-no-Ko.jpg",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMWQzOTYxMjQtMjRkOC00M2Y5LWExODYtNTFkNmZiOWUwOTE0XkEyXkFqcGc@._V1_.jpg",
             "title": "Weathering with you",
             "year": "2019",
             "length": "1h 54m",
@@ -101,7 +101,7 @@
         },
         {
             "id": "12", 
-            "poster": "https://es.web.img3.acsta.net/pictures/20/01/09/15/10/0234685.jpg",
+            "poster": "https://i.ebayimg.com/images/g/KO8AAOSwh~peN1a5/s-l1200.jpg",
             "title": "1917",
             "year": "2019",
             "length": "1h 59m",
@@ -200,7 +200,7 @@
         },
         {
             "id": "23", 
-            "poster": "https://es.web.img2.acsta.net/pictures/18/01/29/13/26/1361527.jpg",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "title": "Koe No Katachi",
             "year": "2016",
             "length": "2h 9m",
@@ -209,7 +209,7 @@
         },
         {
             "id": "24", 
-            "poster": "https://m.media-amazon.com/images/M/MV5BYjdiMDdlMDItOGM4Ny00YmE4LTk0MTEtMGRhM2Y4OWZkZDZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "poster": "https://m.media-amazon.com/images/I/819XDfizEaL.jpg",
             "title": "Garden of Words",
             "year": "2013",
             "length": "46m",
@@ -251,7 +251,368 @@
             "length": "1h 57m",
             "director": "Jean-Marc Vallée",
             "synopsis": "Ron Woodroof (Matthew McConaughey) is a foul-mouthed Texan electrician and part-time rodeo rider who is addicted to drugs and sex."
+        },
+        {
+            "id": "29", 
+            "poster": "https://pics.filmaffinity.com/Casino-348445329-large.jpg",
+            "title": "Casino",
+            "year": "1995",
+            "length": "2h 58m",
+            "director": "Martin Scorsese",
+            "synopsis": "In the early-1970s Las Vegas, low-level mobster Sam 'Ace' Rothstein (Robert De Niro) gets tapped by his bosses to head the Tangiers Casino."
+        },
+        {
+            "id": "30", 
+            "poster": "https://m.media-amazon.com/images/I/81QTM2LkVPL.jpg",
+            "title": "Good Will Hunting",
+            "year": "1997",
+            "length": "2h 6m",
+            "director": "Gus Van Sant",
+            "synopsis": "Will Hunting, a janitor at MIT, has a gift for mathematics, but needs help from a psychologist to find direction in his life."
+        },
+        {
+            "id": "31", 
+            "poster": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF894,1000_QL80_.jpg",
+            "title": "Schindler's List",
+            "year": "1993",
+            "length": "3h 15m",
+            "director": "Steven Spielberg",
+            "synopsis": "Businessman Oskar Schindler (Liam Neeson) arrives in Krakow in 1939, ready to make his fortune from World War II, which has just started."
+        },
+        {
+            "id": "32", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_.jpg",
+            "title": "The Pianist",
+            "year": "2002",
+            "length": "2h 30m",
+            "director": "Roman Polanski",
+            "synopsis": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family."
+        },
+        {
+            "id": "33", 
+            "poster": "https://m.media-amazon.com/images/I/819WhIcarWL._AC_UF894,1000_QL80_.jpg",
+            "title": "Dunkirk",
+            "year": "2017",
+            "length": "1h 46m",
+            "director": "Christopher Nolan",
+            "synopsis": "Four hundred thousand British and French soldiers are holed up in the French port town of Dunkirk."
+        },
+        {
+            "id": "34", 
+            "poster": "https://m.media-amazon.com/images/I/71QPnEkXygS._AC_UF894,1000_QL80_.jpg",
+            "title": "Fight Club",
+            "year": "1999",
+            "length": "2h 19m",
+            "director": "David Fincher",
+            "synopsis": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+        },
+        {
+            "id": "35", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+            "title": "Saving Private Ryan",
+            "year": "1998",
+            "length": "2h 49m",
+            "director": "Steven Spielberg",
+            "synopsis": "Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat."
+        },
+        {
+            "id": "36", 
+            "poster": "https://m.media-amazon.com/images/I/617-2I06oGL._AC_UF894,1000_QL80_.jpg",
+            "title": "Dead Poets Society",
+            "year": "1989",
+            "length": "2h 8m",
+            "director": "Peter Weir",
+            "synopsis": "A new English teacher, John Keating (Robin Williams), is introduced to an all-boys preparatory school that is known for its ancient traditions and high standards. He uses unorthodox methods to reach out to his students, who face enormous pressures from their parents and the school."
+        },
+        {
+            "id": "37", 
+            "poster": "https://m.media-amazon.com/images/I/81+jgk+SZyL._AC_UF894,1000_QL80_.jpg",
+            "title": "Small Soldiers",
+            "year": "1998",
+            "length": "1h 50m",
+            "director": "Joe Dante",
+            "synopsis": "When teenager Alan (Gregory Smith) buys a set of Commando Elite action figures, he's unaware that they have been programmed with military technology. The toys, including leader Chip (Tommy Lee Jones), spring to life and start taking their directives seriously, beginning by 'killing' their enemies, the toy Gorgonites."
+        },
+        {
+            "id": "38", 
+            "poster": "https://m.media-amazon.com/images/S/pv-target-images/f690c81df950a8e051d1b888ec0bdc6f010db65079d5ca1a3b02b2ae830fa1ec.jpg",
+            "title": "The Goonies",
+            "year": "1985",
+            "length": "1h 54m",
+            "director": "Richard Donner",
+            "synopsis": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure."
+        },
+        {
+            "id": "39", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BNTc3YTRlMWMtMWIxMC00Njk2LTg0MjktNWVjNTUzOTViZmNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "title": "Chicken Run",
+            "year": "2000",
+            "length": "1h 24m",
+            "director": "Nick Park, Peter Lord",
+            "synopsis": "Set in the countryside of Yorkshire, the plot centres on a group of British anthropomorphic chickens who see an American rooster named Rocky Rhodes as their only hope to escape the farm when their owners want to turn them into chicken pies."
+        },
+        {
+            "id": "40", 
+            "poster": "https://pics.filmaffinity.com/It_Eso_TV-199479174-large.jpg",
+            "title": "It",
+            "year": "1990",
+            "length": "3h 12m",
+            "director": "Tommy Lee Wallace",
+            "synopsis": "A group of social outcasts who are bullied by a gang of greasers led by Henry Bowers are also tormented by an evil demon who can shape-shift into a clown."
+        },
+        {
+            "id": "41", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_FMjpg_UX1000_.jpg",
+            "title": "The Babadook",
+            "year": "2014",
+            "length": "1h 34m",
+            "director": "Jennifer Kent",
+            "synopsis": "A single mother and her child fall into a deep well of paranoia when an eerie children's book titled 'Mister Babadook' manifests in their home."
+        },
+        {
+            "id": "42", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTgxMjUyNTAxNF5BMl5BanBnXkFtZTgwNTk4MDUyMzE@._V1_.jpg",
+            "title": "The Woman in Black: Angel of Death",
+            "year": "2014",
+            "length": "1h 38m",
+            "director": "Tom Harper",
+            "synopsis": "During WWII, the London bombings force two schoolteachers to evacuate a group of children to the coastal village of Crythin Gifford."
+        },
+        {
+            "id": "43", 
+            "poster": "https://pics.filmaffinity.com/Brimstone_La_hija_del_predicador-859310224-large.jpg",
+            "title": "Brimstone",
+            "year": "2016",
+            "length": "2h 28m",
+            "director": "Martin Koolhoven",
+            "synopsis": "In the menacing inferno of the old North-American West, Liz is a genuine survivor who is hunted by a vengeful preacher for a crime she didn't commit."
+        },
+        {
+            "id": "43", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BYTYxMjI2YzUtODQ5Mi00M2JmLTlmNzItOTlkM2MyM2ExM2RlXkEyXkFqcGc@._V1_.jpg",
+            "title": "El Camino",
+            "year": "2019",
+            "length": "2h 2m",
+            "director": "Vince Gilligan",
+            "synopsis": "Fugitive Jesse Pinkman runs from his captors, the law, and his past."
+        },
+        {
+            "id": "44", 
+            "poster": "https://m.media-amazon.com/images/S/pv-target-images/18c61d69aca4685c7115e10140d317e4cd9d95e6f964d6e9e7e2f3705526f8a6.jpg",
+            "title": "Once Upon a Time in Hollywood",
+            "year": "2019",
+            "length": "2h 40m",
+            "director": "Quentin Tarantino",
+            "synopsis": "Set in 1969 Los Angeles, the film follows a fading actor and his stunt double as they navigate the rapidly changing film industry, with the threat of the Tate murders looming."
+        },
+        {
+            "id": "45", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_.jpg",
+            "title": "The Hateful Eight",
+            "year": "2015",
+            "length": "3h 7m",
+            "director": "Quentin Tarantino",
+            "synopsis": "About eight violent people who, during a blizzard, meet in a inn and learn they may have reasons to fight each other."
+        },
+        {
+            "id": "46", 
+            "poster": "https://pics.filmaffinity.com/Django_desencadenado-956246347-large.jpg",
+            "title": "Django Unchained",
+            "year": "2012",
+            "length": "2h 45m",
+            "director": "Quentin Tarantino",
+            "synopsis": "The main themes of Django Unchained are slavery, revenge, and justice. It follows Django, a slave who is freed from his chains by a German bounty hunter named Dr. King Schultz (Christoph Waltz) and trained to be a bounty hunter himself."
+        },
+        {
+            "id": "47", 
+            "poster": "https://m.media-amazon.com/images/I/71LKzze-ElL._AC_UF1000,1000_QL80_.jpg",
+            "title": "Inglourious Basterds",
+            "year": "2009",
+            "length": "2h 33m",
+            "director": "Quentin Tarantino",
+            "synopsis": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same."
+        },
+        {
+            "id": "48", 
+            "poster": "https://pics.filmaffinity.com/Kill_Bill_Volumen_1-216872360-large.jpg",
+            "title": "Kill Bill",
+            "year": "2003",
+            "length": "1h 51m",
+            "director": "Quentin Tarantino",
+            "synopsis": "At her wedding, they move in and kill everyone she loves, and leave her with a bullet in her brain. Awaking from a coma four years later, she instantly begins plotting retribution."
+        },
+        {
+            "id": "49", 
+            "poster": "https://pics.filmaffinity.com/Kill_Bill_Volumen_2-182114054-large.jpg",
+            "title": "Kill Bill 2",
+            "year": "2004",
+            "length": "2h 17m",
+            "director": "Quentin Tarantino",
+            "synopsis": "The Bride resumes her quest for justice, taking aim at Budd and Elle Driver, the only survivors from the squad of assassins who betrayed her four years earlier."
+        },
+        {
+            "id": "50", 
+            "poster": "https://pics.filmaffinity.com/Pulp_Fiction-210382116-large.jpg",
+            "title": "Pulp Fiction",
+            "year": "1994",
+            "length": "2h 29m",
+            "director": "Quentin Tarantino",
+            "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+        },
+        {
+            "id": "51", 
+            "poster": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/12/reservoir-dogs.jpg?tf=2048x",
+            "title": "Reservoir Dogs",
+            "year": "1992",
+            "length": "1h 39m",
+            "director": "Quentin Tarantino",
+            "synopsis": "A gang of thieves carry out an armed robbery on a diamond warehouse. The police are after them so quickly that they suspect they have a rat in their company."
+        },
+        {
+            "id": "52", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BYzkzYTY5Y2ItNDE4Yy00MDkyLWJkMzEtZDU0YTI2N2Q2ZGJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "title": "Quadrophenia",
+            "year": "1979",
+            "length": "1h 57m",
+            "director": "Franc Roddam",
+            "synopsis": "To prepare for the weekend, the friends attempt to buy some recreational drugs from London gangster Harry North (John Bindon), but are cheated with fake pills."
+        },
+        {
+            "id": "53", 
+            "poster": "https://www.ecartelera.com/carteles/9100/9131/001_m.jpg",
+            "title": "The Doors",
+            "year": "1991",
+            "length": "2h 21m",
+            "director": "Oliver Stone",
+            "synopsis": "The movie follows Morrison from his days as a film student in Los Angeles to his death in Paris, France at age 27 in 1971."
+        },
+        {
+            "id": "54", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BYWUzNzZkNzUtNDdiYy00Nzk5LTgxMmItNTk0MjRjNjdjNDA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "title": "Full Metal Jacket",
+            "year": "1987",
+            "length": "1h 56m",
+            "director": "Stanley Kubrick",
+            "synopsis": "A two-segment story that follows young men from the start of recruit training in the Marine Corps to the lethal cauldron known as Vietnam."
+        },
+        {
+            "id": "55", 
+            "poster": "https://m.media-amazon.com/images/I/81nwnHTcV2L._AC_UF894,1000_QL80_.jpg",
+            "title": "The Shining",
+            "year": "1980",
+            "length": "2h 26m",
+            "director": "Stanley Kubrick",
+            "synopsis": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence."
+        },
+        {
+            "id": "56", 
+            "poster": "https://m.media-amazon.com/images/I/71EPjPo0UUL._AC_UF894,1000_QL80_.jpg",
+            "title": "Clockwork Orange",
+            "year": "1972",
+            "length": "2h 16m",
+            "director": "Stanley Kubrick",
+            "synopsis": "Alex DeLarge is an 'ultraviolent' youth in futuristic Britain. As with all luck, his eventually runs out and he's arrested and convicted of murder."
+        },
+        {
+            "id": "57", 
+            "poster": "https://m.media-amazon.com/images/S/pv-target-images/07ca8b099420e92ae444b92279dcb982b180943f5544eb71e9798ab6f167a919.jpg",
+            "title": "Lolita",
+            "year": "1962",
+            "length": "2h 33m",
+            "director": "Stanley Kubrick",
+            "synopsis": "It follows a middle-aged literature lecturer who becomes obsessed with an adolescent girl."
+        },
+        {
+            "id": "58", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BODVhYmM1MzktMDY3ZC00OWJjLTk4NTktZGZkN2I0OWQ5ZmRlXkEyXkFqcGc@._V1_.jpg",
+            "title": "2001 A Space Odyssey",
+            "year": "1968",
+            "length": "2h 29m",
+            "director": "Stanley Kubrick",
+            "synopsis": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins."
+        },
+        {
+            "id": "59", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Paths_of_Glory_%281957_poster%29.jpg",
+            "title": "Paths of Glory",
+            "year": "1957",
+            "length": "1h 28m",
+            "director": "Stanley Kubrick",
+            "synopsis": "A colonel defends three of his soldiers in a court-martial after they abandon a suicidal attack."
+        },
+        {
+            "id": "60", 
+            "poster": "https://pics.filmaffinity.com/Mud-723972853-large.jpg",
+            "title": "Mud",
+            "year": "2012",
+            "length": "2h 10m",
+            "director": "Jeff Nichols",
+            "synopsis": "Two young boys encounter a fugitive and form a pact to help him evade the vigilantes that are on his trail and to reunite him with his true love."
+        },
+        {
+            "id": "60", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NDE4NTY5MV5BMl5BanBnXkFtZTcwODQyMTkxNA@@._V1_.jpg",
+            "title": "The Lincoln Lawyer",
+            "year": "2011",
+            "length": "1h 58m",
+            "director": "Brad Furman",
+            "synopsis": "Mick Haller is a defense lawyer who works out of his Lincoln. When a wealthy Realtor is accused of assaulting a prostitute, Haller is asked to defend him."
+        },
+        {
+            "id": "61", 
+            "poster": "https://pics.filmaffinity.com/White_Boy_Rick-804619363-large.jpg",
+            "title": "White Boy Rick",
+            "year": "2018",
+            "length": "1h 56m",
+            "director": "Yann Demange",
+            "synopsis": "Based on the moving, true story of a blue-collar father (McConaughey) and his teenage son, Rick Wershe Jr. (Merritt), who became an undercover police informant and later a drug dealer, before he was abandoned by his handlers and sentenced to life in prison."
+        },
+        {
+            "id": "62", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BYzM0MjBhYTUtMzY1My00OGQ5LTk4OWMtNWYwNmY3ZGFjMjViXkEyXkFqcGc@._V1_.jpg",
+            "title": "You Were Never Really Here",
+            "year": "2017",
+            "length": "1h 35m",
+            "director": "Lynne Ramsay",
+            "synopsis": "A traumatized mercenary named Joe (Phoenix) is hired by a politician to find and rescue his daughter who has been kidnapped by a human trafficking network, which Joe is instructed to destroy by any violent means."
+        },
+        {
+            "id": "63", 
+            "poster": "https://pics.filmaffinity.com/A_Ghost_Story-788590956-large.jpg",
+            "title": "A Ghost Story",
+            "year": "2017",
+            "length": "1h 32m",
+            "director": "David Lowery",
+            "synopsis": "A white-sheeted ghost returns to his suburban home to console his bereft wife, only to find that in his spectral state he has become unstuck in time."
+        },
+        {
+            "id": "64", 
+            "poster": "https://pics.filmaffinity.com/La_Red_Social-460155430-large.jpg",
+            "title": "The Social Network",
+            "year": "2010",
+            "length": "2h",
+            "director": "David Fincher",
+            "synopsis": "In 2003, Harvard undergrad and computer genius Mark Zuckerberg (Jesse Eisenberg) begins work on a new concept that eventually turns into the global social network known as Facebook."
+        },
+        {
+            "id": "65", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_.jpg",
+            "title": "The Truman Show",
+            "year": "1998",
+            "length": "1h 43m",
+            "director": "Peter Weir",
+            "synopsis": "An insurance salesman discovers his whole life is actually a reality TV show."
+        },
+        {
+            "id": "66", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_FMjpg_UX1000_.jpg",
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": "2004",
+            "length": "1h 48m",
+            "director": "Michel Gondry",
+            "synopsis": "This is the story of a guy, Joel, who discovers that his long-time girlfriend, Clementine, has undergone a psychiatrist's experimental procedure."
         }
+
     ]
 
 
