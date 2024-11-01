@@ -24,7 +24,7 @@
     z-index: 1; 
 }
 
-#scrollToTop {
+.scrollToTop {
     position: fixed; 
     bottom: 20px; 
     right: 20px; 

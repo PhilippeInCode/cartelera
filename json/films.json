@@ -611,8 +611,241 @@
             "length": "1h 48m",
             "director": "Michel Gondry",
             "synopsis": "This is the story of a guy, Joel, who discovers that his long-time girlfriend, Clementine, has undergone a psychiatrist's experimental procedure."
+        },
+        {
+            "id": "67", 
+            "poster": "https://pics.filmaffinity.com/Mula-912076328-large.jpg",
+            "title": "The Mule",
+            "year": "2018",
+            "length": "1h 57m",
+            "director": "Clint Eastwood",
+            "synopsis": "A ninety-year-old horticulturist and Korean War veteran turns drug mule for a Mexican cartel."
+        },
+        {
+            "id": "68", 
+            "poster": "https://pics.filmaffinity.com/Gran_Torino-278262332-large.jpg",
+            "title": "Gran Torino",
+            "year": "2008",
+            "length": "1h 56m",
+            "director": "Clint Eastwood",
+            "synopsis": "After a Hmong teenager tries to steal his prized 1972 Gran Torino, a disgruntled, prejudiced Korean War veteran seeks to redeem both the boy and himself."
+        },
+        {
+            "id": "69", 
+            "poster": "https://pics.filmaffinity.com/Million_Dollar_Baby-342154413-large.jpg",
+            "title": "Million Dollar Baby",
+            "year": "2004",
+            "length": "2h 12m",
+            "director": "Clint Eastwood",
+            "synopsis": "Maggie becomes an extraordinarily successful fighter, always knocking out her opponent in the first round."
+        },
+        {
+            "id": "70", 
+            "poster": "https://pics.filmaffinity.com/Cry_Macho-324324840-large.jpg",
+            "title": "Cry Macho",
+            "year": "2021",
+            "length": "1h 44m",
+            "director": "Clint Eastwood",
+            "synopsis": "A one-time rodeo star and washed-up horse breeder takes a job to bring a man's young son home and away from his alcoholic mom."
+        },
+        {
+            "id": "71", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BYmVkNGJkMzQtYWQwOS00OTZmLThjODQtZjNjNzllYzRiNTE0XkEyXkFqcGc@._V1_.jpg",
+            "title": "Trainspotting",
+            "year": "1996",
+            "length": "1h 34m",
+            "director": "Danny Boyle",
+            "synopsis": "A wild, freeform, Rabelaisian trip through the darkest recesses of Edinburgh low-life, focusing on Mark Renton and his attempt to give up his heroin habit."
+        },
+        {
+            "id": "72", 
+            "poster": "https://pics.filmaffinity.com/T2_Trainspotting-853336883-large.jpg",
+            "title": "Trainspotting 2",
+            "year": "2017",
+            "length": "1h 57m",
+            "director": "Danny Boyle",
+            "synopsis": "After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud, and Begbie."
+        },
+        {
+            "id": "73", 
+            "poster": "https://pics.filmaffinity.com/500_daias_juntos-695902679-large.jpg",
+            "title": "(500) Days of Summer)",
+            "year": "2009",
+            "length": "1h 35m",
+            "director": "Marc Webb",
+            "synopsis": "An offbeat romantic comedy about a woman (Deschanel) who doesn't believe true love exists, and the young man (Gordon-Levitt) who falls for her."
+        },
+        {
+            "id": "74", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BZjE0ZjgzMzYtMTAxYi00NGMzLThmZDktNzFlMzA2MWRmYWQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "title": "The Notebook",
+            "year": "2004",
+            "length": "2h 4m",
+            "director": "Nick Cassavetes",
+            "synopsis": "In a modern-day nursing home, an elderly man named Duke (James Garner) begins to read a love story from his notebook to a female fellow patient (Gena Rowlands)."
+        },
+        {
+            "id": "75", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_FMjpg_UX1000_.jpg",
+            "title": "Harry Potter and the prisoner of Azkaban",
+            "year": "2004",
+            "length": "2h 27m",
+            "director": "Alfonso Cuarón",
+            "synopsis": "A dangerous criminal and Voldemort's trusted aide Sirius Black (Gary Oldman) has escaped from Azkaban Prison and wants to kill Harry to avenge the Dark Lord."
+        },
+        {
+            "id": "76", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BNDE3MDY4YjItNTNlOS00MTRmLTlmNGEtNjk0ZjQyYTRjMTc4XkEyXkFqcGc@._V1_.jpg",
+            "title": "Phantom Thread",
+            "year": "2017",
+            "length": "2h 11m",
+            "director": "Paul Thomas Anderson",
+            "synopsis": "Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and his lover."
+        },
+        {
+            "id": "77", 
+            "poster": "https://pics.filmaffinity.com/Joker-841439739-large.jpg",
+            "title": "Joker",
+            "year": "2019",
+            "length": "2h 2m",
+            "director": "Todd Philips",
+            "synopsis": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother."
+        },
+        {
+            "id": "78", 
+            "poster": "https://pics.filmaffinity.com/In_Time-139117348-large.jpg",
+            "title": "In Time",
+            "year": "2011",
+            "length": "1h 49m",
+            "director": "Andrew Niccol",
+            "synopsis": "28-year-old factory worker Will Salas (Justin Timberlake) lives with his mother Rachel (Olivia Wilde) in the ghettos."
+        },
+        {
+            "id": "79", 
+            "poster": "https://pics.filmaffinity.com/Sully-529592382-large.jpg",
+            "title": "Sully",
+            "year": "2016",
+            "length": "1h 36m",
+            "director": "Clint Eastwood",
+            "synopsis": "Pilot Chesley 'Sully' Sullenberger and co-pilot Jeff Skiles land an Airbus A320 with one hundred fifty-five passengers on the Hudson River saving their lives."
+        },
+        {
+            "id": "79", 
+            "poster": "https://m.media-amazon.com/images/I/91cwLOyoH9L._AC_UF894,1000_QL80_.jpg",
+            "title": "Lone Survivor",
+            "year": "2013",
+            "length": "2h 1m",
+            "director": "Peter Berg",
+            "synopsis": "Marcus Luttrell, a Navy Seal, and his team set out on a mission to capture or kill notorious Taliban leader Ahmad Shah, in late June 2005."
+        },
+        {
+            "id": "80", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_FMjpg_UX1000_.jpg",
+            "title": "American Sniper",
+            "year": "2014",
+            "length": "2h 13m",
+            "director": "Clint Eastwood",
+            "synopsis": "US Navy SEAL Chris Kyle (Bradley Cooper) takes his sole mission, protecting his comrades, to heart and becomes one of the most lethal snipers in American history."
+        },
+        {
+            "id": "81", 
+            "poster": "https://m.media-amazon.com/images/I/71Fmje2CQyL._AC_UF894,1000_QL80_.jpg",
+            "title": "Fury",
+            "year": "2014",
+            "length": "2h 14m",
+            "director": "David Ayer",
+            "synopsis": "A battle-hardened Army sergeant named Wardaddy commands a five-man Sherman tank crew on a deadly mission behind enemy lines."
+        },
+        {
+            "id": "82", 
+            "poster": "https://pics.filmaffinity.com/La_lengua_de_las_mariposas-220234225-large.jpg",
+            "title": "La lengua de las Mariposas",
+            "year": "1999",
+            "length": "1h 37m",
+            "director": "José Luis Cuerda",
+            "synopsis": "Finales de invierno de 1936. En un pequeño pueblo gallego, Moncho, un niño de 8 años, se incorpora a la escuela tras una larga enfermedad."
+        },
+        {
+            "id": "83", 
+            "poster": "https://pics.filmaffinity.com/Las_verdes_praderas-327835887-large.jpg",
+            "title": "Las Verdes Praderas",
+            "year": "1979",
+            "length": "1h 37m",
+            "director": "José Luis Garci",
+            "synopsis": "José, un ejecutivo de origen humilde, ha alcanzado el éxito dentro de la empresa de publicidad para la que trabaja, gracias a su talento innato para encontrar la frase exacta. Es el paradigma del hombre que se ha hecho a sí mismo y ha convertido en realidad sus sueños de niño: una familia, un chalet en la sierra, un coche... Sin embargo, un fin de semana en el que esperaba disfrutar de su chalet se convierte en una sucesión de problemas que no lo dejan descansar ni un momento. Entonces empieza a cuestionarse su vida y a preguntarse si verdaderamente coincide con sus sueños."
+        },
+        {
+            "id": "83", 
+            "poster": "https://m.media-amazon.com/images/I/51031EVCtKL._AC_UF894,1000_QL80_.jpg",
+            "title": "El Bola",
+            "year": "2000",
+            "length": "1h 28m",
+            "director": "Achero Mañas",
+            "synopsis": "El Bola es un chaval de 12 años que vive en una atmósfera violenta y sórdida. Su situación familiar, que oculta avergonzado, le incapacita para relacionarse y comunicarse con otros chicos. La llegada de un nuevo compañero al colegio le brinda la oportunidad de descubrir la amistad y una realidad familiar completamente distinta. Todo ello le dará la fuerza necesaria para aceptar y, además, afrontar su propia situación."
+        },
+        {
+            "id": "84", 
+            "poster": "https://www.academiadecine.com/wp-content/uploads/2024/06/0c58dd1f-c318-1524-79e4-f8ed6b655298.jpeg",
+            "title": "Casa en Flames",
+            "year": "2024",
+            "length": "1h 50m",
+            "director": "Dani de la Orden",
+            "synopsis": "La trama de Casa en llamas sigue a Montse mientras intenta organizar un fin de semana ideal con su familia en su casa de verano en la Costa Brava."
+        },
+        {
+            "id": "85", 
+            "poster": "https://pics.filmaffinity.com/Que_nadie_duerma-673612064-large.jpg",
+            "title": "Que Nadie Duerma",
+            "year": "2023",
+            "length": "2h 2m",
+            "director": "Antonio Méndez Esparza",
+            "synopsis": "Lucía pierde su empleo como programadora informática y decide dar un giro en su vida: convertirse en taxista. Al volante de su taxi, recorriendo las calles de Madrid, esperará pacientemente la ocasión de llevar en él a su vecino desaparecido, del que se ha enamorado."
+        },
+        {
+            "id": "86", 
+            "poster": "https://filmconcertslive.com/wp-content/uploads/2015/02/BTTF-Film-Poster-scaled.jpg",
+            "title": "Back to the future",
+            "year": "1985",
+            "length": "1h 56m",
+            "director": "Steven Spielberg",
+            "synopsis": "Marty McFly is thrown back into the '50s when an experiment by his eccentric scientist friend Doc Brown goes awry."
+        },
+        {
+            "id": "87", 
+            "poster": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c374002-8549-44d3-a4fe-fbb3843067ed/del6tk2-04401dfc-1603-4f3f-a213-c668ec53dd75.jpg/v1/fill/w_894,h_894,q_70,strp/back_to_the_future_part_ii_soundtrack_1989_by_galgalizia_del6tk2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvOWMzNzQwMDItODU0OS00NGQzLWE0ZmUtZmJiMzg0MzA2N2VkXC9kZWw2dGsyLTA0NDAxZGZjLTE2MDMtNGYzZi1hMjEzLWM2NjhlYzUzZGQ3NS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-SbDvxmyXc2uYl7Y19FCNsV0ZShM9TvcrIeKvxK176o",
+            "title": "Back to the future Part II",
+            "year": "1989",
+            "length": "1h 48m",
+            "director": "Robert Zemeckis",
+            "synopsis": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip."
+        },
+        {
+            "id": "88", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BNTNkNzJmY2MtOGNjYi00NDJmLWIyZTQtNmFmMGQ5M2VlOTI0XkEyXkFqcGc@._V1_.jpg",
+            "title": "Back to the future Part III",
+            "year": "1990",
+            "length": "1h 58m",
+            "director": "Robert Zemeckis",
+            "synopsis": "Stranded in 1955, Marty McFly learns about the death of Doc Brown in 1885 and must travel back in time to save him. With no fuel readily available for the DeLorean, the two must figure how to escape the Old West before Emmett is murdered."
+        },
+        {
+            "id": "89", 
+            "poster": "https://pics.filmaffinity.com/E_T_el_extraterrestre-391240254-large.jpg",
+            "title": "E.T",
+            "year": "1982",
+            "length": "2h",
+            "director": "Steven Spielberg",
+            "synopsis": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet."
+        },
+        {
+            "id": "90", 
+            "poster": "https://m.media-amazon.com/images/I/71lhAl4ytXL._AC_UF894,1000_QL80_.jpg",
+            "title": "Jaws",
+            "year": "1975",
+            "length": "2h 4m",
+            "director": "Steven Spielberg",
+            "synopsis": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down."
         }
-
     ]
 
 
