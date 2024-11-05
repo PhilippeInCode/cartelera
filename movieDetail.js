@@ -1,5 +1,3 @@
-// movieDetail.js
-
 // Obtener el ID de la película desde la URL
 const urlParams = new URLSearchParams(window.location.search);
 const movieId = urlParams.get('id');
