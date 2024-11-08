@@ -32,3 +32,40 @@
     z-index: 1000; 
 }
 
+.mainFooter {
+    background-color: #212529; 
+    color: #ffffff; 
+}
+
+.footerInfo {
+    font-size: 1rem;
+}
+
+.footerSocialMedia a {
+    transition: transform 0.2s ease-in-out; 
+}
+
+.footerSocialMedia a:hover {
+    transform: scale(1.1); 
+}
+
+.footer-icon {
+    width: 35px;
+    height: auto;
+    filter: brightness(0) invert(1); 
+}
+
+.scroll-to-top-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 100;
+}
+
+#scrollToTop {
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
