@@ -15,12 +15,12 @@ const yearRangeStart = document.getElementById('yearRangeStart');
 const yearRangeEnd = document.getElementById('yearRangeEnd');
 const yearRangeDisplay = document.getElementById('yearRangeDisplay');
 const movieSection = document.getElementById('movieSection');
-const returnButtonContainer = document.getElementById('returnButtonContainer'); // Contenedor del botón "Return" de búsqueda principal
-const paginationContainer = document.getElementById('paginationContainer'); // Contenedor de la paginación
+const returnButtonContainer = document.getElementById('returnButtonContainer'); 
+const paginationContainer = document.getElementById('paginationContainer'); 
 
 // Elementos de la barra de búsqueda principal
 const searchInput = document.getElementById('searchInput');
-const searchReturnButton = document.getElementById('searchReturnButton'); // Botón de "Return" específico de la búsqueda principal
+const searchReturnButton = document.getElementById('searchReturnButton'); 
 
 // Función para obtener películas del JSON
 async function fetchMoviesJson() {
@@ -54,7 +54,7 @@ fetchMoviesJson().then(movies => {
     yearRangeEnd.value = maxYear;
 
     yearRangeDisplay.textContent = `${minYear} - ${maxYear}`;
-    renderMovies(currentPage); // Renderizar todas las películas inicialmente
+    renderMovies(currentPage); 
 
     // Eventos para actualizar el rango dinámico y filtrar por rango de años
     yearRangeStart.addEventListener('input', updateYearRange);
@@ -78,17 +78,16 @@ function filterMoviesByYearRange(startYear, endYear) {
     );
 
     if (filteredMovies.length === 0) {
-        // Mostrar mensaje de "No hay resultados" y el botón "Return" debajo
         movieSection.innerHTML = `
             <div class="col-12 d-flex flex-column align-items-center" style="height: 100px; white-space: nowrap;">
                 <p class="text-center mb-2">Your search did not return any results</p>
                 <button id="advancedReturnButton" class="btn btn-primary mt-3">Return</button>
             </div>
         `;
-        paginationContainer.style.display = 'none'; // Ocultar la paginación
-        returnButtonContainer.style.display = 'none'; // Ocultar el botón "Return" de la barra de búsqueda principal
+        paginationContainer.style.display = 'none'; 
+        returnButtonContainer.style.display = 'none'; 
 
-        // Evento para el botón "Return" de búsqueda avanzada
+        // Evento para el botón "Return" de la búsqueda avanzada
         document.getElementById('advancedReturnButton').addEventListener('click', () => {
             resetMoviesAndAdvancedSearch();
         });
@@ -102,14 +101,14 @@ function filterMoviesByYearRange(startYear, endYear) {
 function resetMoviesAndAdvancedSearch() {
     displayedMovies = shuffleMovies([...allMovies]);
     renderMovies(1);
-    window.history.pushState({}, '', '?page=1'); // Restablecer a la primera página en la URL
+    window.history.pushState({}, '', '?page=1'); 
     advancedSearchText.style.display = 'block';
     yearRangeContainer.style.display = 'none';
 }
 
 // Renderizar películas en la página
 function renderMovies(page = 1) {
-    movieSection.innerHTML = ''; // Limpiar el contenedor de películas
+    movieSection.innerHTML = ''; 
     returnButtonContainer.style.display = 'none';
     paginationContainer.style.display = 'block';
 
@@ -158,16 +157,21 @@ function filterMoviesBySearchTerm(searchTerm) {
 
     if (filteredMovies.length === 0) {
         movieSection.innerHTML = `
-            <div class="col-12 d-flex justify-content-center align-items-center" style="height: 100px;">
-                <p class="text-center mb-0">No results found. You can only search by title, director, or publication year.</p>
+             <div class="col-12 d-flex flex-column align-items-center" style="height: 100px; white-space: nowrap;">
+                <p class="text-center mb-2">No results found. You can only search by title, director, or publication year.</p>
+                <button id="advancedReturnButton" class="btn btn-primary mt-3">Return</button>
             </div>
         `;
-        paginationContainer.style.display = 'none';
-        searchReturnButton.style.display = 'block'; // Mostrar el botón "Return" de búsqueda principal
+        paginationContainer.style.display = 'none'; 
+        returnButtonContainer.style.display = 'none'; 
+
+        // Evento para el botón "Return" de la búsqueda principal
+        document.getElementById('advancedReturnButton').addEventListener('click', () => {
+            resetMoviesAndAdvancedSearch();
+        });
     } else {
         displayedMovies = filteredMovies;
         renderMovies(1);
-        searchReturnButton.style.display = 'block';
     }
 }
 
@@ -179,7 +183,7 @@ searchInput.addEventListener('input', () => {
     } else {
         displayedMovies = shuffleMovies([...allMovies]);
         renderMovies(1);
-        searchReturnButton.style.display = 'none'; // Ocultar el botón "Return" cuando no hay término de búsqueda
+        searchReturnButton.style.display = 'none'; 
     }
 });
 
