@@ -35,14 +35,17 @@
 .mainFooter {
     background-color: #212529; 
     color: #ffffff; 
+    padding-bottom: 20px;
 }
 
 .footerInfo {
     font-size: 1rem;
+    margin-bottom: 15px;
 }
 
 .footerSocialMedia a {
     transition: transform 0.2s ease-in-out; 
+    margin-bottom: 15px;
 }
 
 .footerSocialMedia a:hover {
