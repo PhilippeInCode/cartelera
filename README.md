@@ -27,7 +27,8 @@
 
 ## Screenshots
 
-![Screenshot of the application](./images/screenshot.png)
+![Movie Poster Website](./images/screenshot.png)
+![Movie detail](./images/screenshot2.png)
 
 --- 
 
