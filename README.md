@@ -4,7 +4,7 @@
 
 ## Table of Contents
 1. [Features](#features)
-2. Screenshots 
+2. [Screenshots](#screenshots) 
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Project Structure](#project-structure)
@@ -27,7 +27,7 @@
 
 ## Screenshots
 
-![Screenshot of the application](./screenshot.png)
+![Screenshot of the application](./images/screenshot.png)
 
 --- 
 
