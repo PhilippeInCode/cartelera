@@ -48,16 +48,16 @@
 ## Project Structure
 
 philippes-movie-poster/
-├── index.html                       # Main HTML file
+├── index.html                       
 ├── styles/
-│   ├── styleIndex.css               # Styles for the main page
-│   ├── styleMovieDetails.css        # Styles for the movie detail page
+│   ├── styleIndex.css              
+│   ├── styleMovieDetails.css        
 ├── scripts/
-│   └── app.js                       # JavaScript functionality
+│   └── app.js                      
 ├── data/
-│   └── movies.json                  # JSON file containing movie data
+│   └── movies.json                 
 └── assets/
-    └── images/                      # Folder containing images and posters
+    └── images/
 
 
 - index.html: The main HTML file that loads the app.
