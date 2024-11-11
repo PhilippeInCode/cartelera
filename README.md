@@ -4,12 +4,13 @@
 
 ## Table of Contents
 1. [Features](#features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Project Structure](#project-structure)
-5. [Technologies Used](#technologies-used)
-6. [Future Improvements](#future-improvements)
-7. [Credits](#credits)
+2. Screenshots 
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Project Structure](#project-structure)
+6. [Technologies Used](#technologies-used)
+7. [Future Improvements](#future-improvements)
+8. [Credits](#credits)
 
 ---
 
@@ -21,6 +22,14 @@
 - **Pagination**: Browse through pages to efficiently navigate the catalog.
 - **Movie Detail Page**: Access complete information for each movie, including poster, synopsis, and additional metadata.
 - **Smooth Animations**: Interactive elements with hover animations and transitions.
+
+---
+
+## Screenshots
+
+![Screenshot of the application](./screenshot.png)
+
+--- 
 
 ## Installation
 
