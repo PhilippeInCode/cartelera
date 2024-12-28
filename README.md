@@ -36,7 +36,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/philippes-movie-poster.git
+   git clone https://github.com/PhilippeInCode/philippes-movie-poster.git
 
 2. Enter the project directory:
     cd philippes-movie-poster
